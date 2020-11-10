@@ -9,7 +9,7 @@
 ### App ScreenShot
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![bad1](https://github.com/OlaOlaoni/Blur-Detection/blob/main/assets/bad1.png)  |  ![bad2](https://github.com/OlaOlaoni/Blur-Detection/blob/main/assets/bad2.png)
+![bad1](https://github.com/OlaOlaoni/Blur-Detection/blob/main/assets/bad1.png)  |  ![bad2](https://github.com/OlaOlaoni/Blur-Detection/blob/main/assets/bad2.png) |  ![bad2](https://github.com/OlaOlaoni/Blur-Detection/blob/main/assets/bad2.png)
 
 ![]()
 ![]()
