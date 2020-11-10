@@ -16,3 +16,7 @@ Blurry Image            |  Sharp Image          |  Blurry Image          |  Shar
 * Kotlin
 * Android
 * Google Colab
+
+#### What Next...
+* Build another app that give realtime feedback when an image is taken if it is good or blurry
+* Train on more image dataset
