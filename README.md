@@ -19,4 +19,7 @@ Blurry Image            |  Sharp Image          |  Blurry Image          |  Shar
 
 #### What Next...
 * Build another app that give realtime feedback when an image is taken if it is good or blurry
+Progress            |
+:-------------------------:|
+![progress](https://github.com/OlaOlaoni/Blur-Detection/blob/main/assets/progress1.png)
 * Train on more image dataset
