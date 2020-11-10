@@ -90,7 +90,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun translate(value: String): String? {
+    private fun translate(value: String): String? {
         if (value == "sharp") return "Good"
         if (value == "defocused_blurred") return "Warning: The Image is not Clear"
         return if (value == "motion_blurred") "Warning: The Image is not Clear" else ""

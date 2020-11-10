@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         tools:text="Good"
         android:textStyle="bold"
-        android:textSize="20sp"
+        android:textSize="17sp"
         android:gravity="center"
         app:layout_constraintTop_toBottomOf="@+id/imageview"
         android:layout_marginTop="10dp"/>
