@@ -18,5 +18,5 @@ Blurry Image            |  Sharp Image          |  Blurry Image          |  Shar
 * Google Colab
 
 #### What Next...
-* Build another app that give realtime feedback if an image is good or blurry
+* Build another app that give realtime feedback when an image is taken if it is good or blurry
 * Train on more image dataset
