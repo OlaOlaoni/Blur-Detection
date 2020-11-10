@@ -7,8 +7,8 @@
 ### The machine learning model was trained using blurry and sharp image.
 
 ### App ScreenShot
-![]()
-![]()
+![bad1](https://github.com/OlaOlaoni/Blur-Detection/blob/main/assets/bad1.png)
+![bad2](https://github.com/OlaOlaoni/Blur-Detection/blob/main/assets/bad2.png)
 ![]()
 ![]()
 
