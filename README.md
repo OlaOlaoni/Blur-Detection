@@ -1,10 +1,9 @@
 ## Image quality detection app
 
-### This is an Android app that uses machine learning to check the image quality for sharpness or blurry.
+### This is an Android app that uses machine learning to check if an image is Sharp or Blurry.
 
-### The way it does this is by selecting an image from the gallery of the phone then it will check if its a Good or Bad image.
-
-### The machine learning model was trained using blurry and sharp image.
+* The way it does this is by selecting an image from the gallery of the phone then it will check if its a Good or Bad image.
+* The machine learning model was trained on both Blurry and Sharp image.
 
 ### App ScreenShot
 Blurry Image            |  Sharp Image          |  Blurry Image          |  Sharp Image
